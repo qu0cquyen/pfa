@@ -1,0 +1,1 @@
+/// Coordinating business logic rules across domain modules
